@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @swapnil121
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Software development
+- 🌱 I’m currently learning ... Python, java, Artificial intelligence, c programming etc.
+- 💞️ I’m looking to collaborate on ... Artificial intelligence and web development.
+- 📫 How to reach me ...on my goals
 
-<!---
-swapnil121/swapnil121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
